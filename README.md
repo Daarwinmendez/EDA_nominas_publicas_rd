@@ -1,7 +1,7 @@
 # Análisis Exploratorio de Datos (EDA) de Nóminas Públicas
 
 ## Descripción del Proyecto
-Este proyecto fue desarrollado por Darwin Domingo Méndez (2023-0769) y Roither Sánchez Sosa (2022-2111) como parte de la asignatura de Procesamiento de Lenguaje Natural (NLP) impartida por el maestro Carlos Ogando. El objetivo principal es realizar un **Análisis Exploratorio de Datos (EDA)** a partir de nóminas públicas de cinco instituciones: UASD, MIVHED, OPRET, UAF y SNS. Se utiliza **Python** junto con las bibliotecas **pandas**, **numpy** y **matplotlib** para cargar, concatenar, limpiar, visualizar y analizar los datos, buscando patrones importantes relacionados con los salarios y otras variables.
+Este proyecto fue desarrollado por Darwin Domingo Méndez (2023-0769) y Roither Sánchez Sosa (2022-2111) como parte de la asignatura de Procesamiento de Lenguaje Natural (NLP) impartida por el maestro Carlos Ogando en el ITLA, y se considera un warm-up de la asignatura. El objetivo principal es realizar un **Análisis Exploratorio de Datos (EDA)** a partir de nóminas públicas de cinco instituciones: UASD, MIVHED, OPRET, UAF y SNS. Se utiliza **Python** junto con las bibliotecas **pandas**, **numpy** y **matplotlib** para cargar, concatenar, limpiar, visualizar y analizar los datos, buscando patrones importantes relacionados con los salarios y otras variables.
 
 ## Objetivos del Proyecto
 1. Recopilar nóminas públicas de cinco instituciones.
